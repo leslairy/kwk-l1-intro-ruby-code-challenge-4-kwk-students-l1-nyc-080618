@@ -11,4 +11,4 @@ o=z/1
 final=y+b+m+o  
  puts final
 end
-least_coins(100)
+least_coins(125)
