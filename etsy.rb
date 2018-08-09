@@ -1,3 +1,5 @@
 def etsy(sale)
-  reduced_price=
+  price=20
+  reduced_price=price*0.8
+  you_save=
   
