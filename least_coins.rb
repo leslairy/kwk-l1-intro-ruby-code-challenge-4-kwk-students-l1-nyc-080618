@@ -1,6 +1,5 @@
 def least_coins(cents)
-x=100
-y=x/25
+x=125
 a=x%25
 
 b=a/10
@@ -11,4 +10,4 @@ o=z/1
 final=y+b+m+o  
  puts final
 end
-least_coins(125)
+least_coins(12)
