@@ -1,6 +1,6 @@
 def least_coins(cents)
-x=125
-a=x%25
+x=cents
+a=cents%25
 
 b=a/10
 l=a%10
